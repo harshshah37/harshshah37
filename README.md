@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 ## Connect with me
 
 <a href="https://www.linkedin.com">
-  <img align="left" src="assets/linkedin.svg" alt="LinkedIn" width="100px"/>
+  <img align="left" src="assets/linkedin.svg" alt="LinkedIn" width="50px"/>
 </a>
 <a href="https://www.instagram.com">
-  <img align="left" src="instagram-svgrepo-com.svg" alt="Instagram" width="100px"/>
+  <img align="left" src="assets/instagram-svgrepo-com.svg" alt="Instagram" width="75px"/>
 </a>
 
