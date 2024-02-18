@@ -18,7 +18,10 @@ Here are some ideas to get you started:
 ## About
 
 * 📖 I am currently pursuing a Graduate degree in Data Science from Indiana University-Bloomington
+* 
 * 🌱 I've worked with XAI and Federated Learning, which are among my most enjoyable topics, and I'm currently learning and working with GenAI
-* 🥅 2024 Goals: Learn extensively and work on LLMs and GenAI 
+* 
+* 🥅 2024 Goals: Learn extensively and work on LLMs and GenAI
+* 
 * ♚ Fun Fact: I thought chess was uninteresting and avoided playing it for 20 years of my life. During lockdown, I played it once, and since then, I have played over 1000 games (Connect with me if you'd love a game [Chess.com](https://www.chess.com/member/harshshah37)
 
