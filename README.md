@@ -55,12 +55,11 @@ Here are some ideas to get you started:
 
 <h2 align = "left"> Technical Skills </h2>
 
-* Skills: &nbsp;&nbsp;&nbsp;<img src="assets/ML_icon_bold_pastel_no_bg.svg" alt="ML" width="70px"/> &nbsp;&nbsp;&nbsp;
-<img src="assets/DL_icon.svg" alt="DL" width="70px"/>&nbsp;&nbsp;&nbsp;
-<img src="assets/FL_icon_bold_no_bg.svg" alt="FL" width="70px"/> &nbsp;&nbsp;&nbsp;
-<img src="assets/XAI_icon.svg" alt="XAI" width="90px"/> &nbsp;&nbsp;&nbsp;
-<img src="assets/ML_icon_bold_pastel_no_bg.svg" alt="CV" width="70px"/> &nbsp;&nbsp;&nbsp; <img src="assets/ML_icon_no_bg.svg" alt="DA" width="70px"/>
-
+* Skills: &nbsp;&nbsp;<img src="assets/ML_icon_bold_pastel_no_bg.svg" alt="ML" width="70px"/> &nbsp;
+<img src="assets/DL_icon.svg" alt="DL" width="70px"/> &nbsp;
+<img src="assets/FL_icon_bold_no_bg.svg" alt="FL" width="70px"/> &nbsp;
+<img src="assets/XAI_icon.svg" alt="XAI" width="90px"/> &nbsp;
+<img src="assets/CV_icon_1.svg" alt="CV" width="70px"/> &nbsp; <img src="assets/DA_icon_1.svg" alt="DA" width="70px"/> 
 
 
 * Programming Languages: &nbsp;&nbsp;&nbsp;<img src="assets/python.png" alt="Python" width="40px"/> &nbsp;&nbsp;&nbsp;
