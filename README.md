@@ -32,7 +32,10 @@ Here are some ideas to get you started:
 * ♚ Fun Fact: I thought chess was uninteresting and avoided playing it for 20 years of my life. During lockdown, I played it once, and since then, I have played over 1000 games (Connect with me if you'd love a game [Chess.com](https://www.chess.com/member/harshshah37)
 
 
-## Connect with me
+<h1 align="center">
+  <strong>Connect with me</strong>
+</h1>
+
 
 <a href="mailto:harshshah7074@gmail.com">
   <img align="left" src="assets/gmail-icon-logo.svg" alt="Gmail" width="50px"/>
@@ -47,11 +50,13 @@ Here are some ideas to get you started:
   <img align="left" src="assets/twitter-svgrepo-com.svg" alt="X" width="50px"/>
 </a>
 
-## Languages & Tools
+<h1 align="center">
+  <strong>Tools</strong>
+</h1>
 
-<a>
+<p>
   <img src="assets/gmail-icon-logo.svg" alt="Image 1" width="50px"/>
   <img src="assets/linkedin.svg" alt="Image 2" width="50px"/>
-</a>
+</p>
 
 
