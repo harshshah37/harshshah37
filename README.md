@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   <strong>Connect with me</strong>
 </h1>
 
-
+<p>
 <a href="mailto:harshshah7074@gmail.com">
   <img align="left" src="assets/gmail-icon-logo.svg" alt="Gmail" width="50px"/>
 </a>
@@ -49,6 +49,7 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/harshshah73">
   <img align="left" src="assets/twitter-svgrepo-com.svg" alt="X" width="50px"/>
 </a>
+</p>
 
 <h1>
   <strong>Tools</strong>
