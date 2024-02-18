@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3>About</h3>
+<h3 align = "left"> About</h3>
 
 * 📖 I am currently pursuing a Graduate degree in Data Science from Indiana University-Bloomington
   
@@ -32,38 +32,38 @@ Here are some ideas to get you started:
 * ♚ Fun Fact: I thought chess was uninteresting and avoided playing it for 20 years of my life. During lockdown, I played it once, and since then, I have played over 1000 games (Connect with me if you'd love a game [Chess.com](https://www.chess.com/member/harshshah37)
 
 
-<h3 align="left">Connect with me</h3>
+<h3 align = "left"> Connect with me</h3>
 <p align="left">
-  <a href="mailto:harshshah7074@gmail.com">
-    <img align="left" src="assets/gmail-icon-logo.svg" alt="Gmail" width="50px" />
-  </a>
-  <a href="https://www.linkedin.com/in/harshshah37/">
-    <img align="left" src="assets/linkedin.svg" alt="LinkedIn" width="50px" />
-  </a>
-  <a href="https://www.instagram.com/harshshah37">
-    <img align="left" src="assets/instagram-svgrepo-com.svg" alt="Instagram" width="50px" />
-  </a>
-  <a href="https://twitter.com/harshshah73">
-    <img align="left" src="assets/twitter-svgrepo-com.svg" alt="X" width="50px" />
-  </a>
+<a href="mailto:harshshah7074@gmail.com">
+  <img align="left" src="assets/gmail-icon-logo.svg" alt="Gmail" width="50px" />
+</a>
+<a href="https://www.linkedin.com/in/harshshah37/">
+  <img align="left" src="assets/linkedin.svg" alt="LinkedIn" width="50px" />
+</a>
+<a href="https://www.instagram.com/harshshah37">
+  <img align="left" src="assets/instagram-svgrepo-com.svg" alt="Instagram" width="50px" />
+</a>
+<a href="https://twitter.com/harshshah73">
+  <img align="left" src="assets/twitter-svgrepo-com.svg" alt="X" width="50px" />
+</a>
 </p>
 
+<br>
+<br>
 
-<h3 align="left">Tools</h3>
-<p align="left">
-  <a href="mailto:harshshah7074@gmail.com">
-    <img align="left" src="assets/gmail-icon-logo.svg" alt="Gmail" width="50px"/>
-  </a>
-  <a href="https://www.linkedin.com/in/harshshah37/">
-    <img align="left" src="assets/linkedin.svg" alt="LinkedIn" width="50px"/>
-  </a>
-  <a href="https://www.instagram.com/harshshah37">
-    <img align="left" src="assets/instagram-svgrepo-com.svg" alt="Instagram" width="50px"/>
-  </a>
-  <a href="https://twitter.com/harshshah73">
-    <img align="left" src="assets/twitter-svgrepo-com.svg" alt="X" width="50px"/>
-  </a>
-</p>
+<h3 align = "left"> Tools</h3>
+
+
+* Programming Languages:&nbsp;&nbsp;&nbsp;<img src="assets/python.png" alt="X" width="40px"/> &nbsp;&nbsp;&nbsp;
+<img src="assets/r.png" alt="X" width="40px"/>&nbsp;&nbsp;&nbsp;
+<img src="assets/c-.png" alt="X" width="40px"/> &nbsp;&nbsp;&nbsp;
+<img src="assets/c- (1).png" alt="X" width="40px"/> &nbsp;&nbsp;&nbsp;
+<img src="assets/java.png" alt="X" width="40px"/> &nbsp;&nbsp;&nbsp; <img src="assets/java-script.png" alt="X" width="40px"/>
+
+
+
+
+
 
 
 
