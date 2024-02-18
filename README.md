@@ -55,30 +55,32 @@ Here are some ideas to get you started:
 
 <h2 align = "left"> Technical Skills </h2>
 
-* Skills: &nbsp;&nbsp;&nbsp;<img src="assets/ML_icon_no_bg.svg" alt="X" width="40px"/> &nbsp;&nbsp;&nbsp;
-<img src="assets/ML_icon_bold_pastel_no_bg.svg" alt="X" width="60px"/>&nbsp;&nbsp;&nbsp;
-<img src="assets/noun-federated-learning-5850930.svg" alt="X" width="40px"/> &nbsp;&nbsp;&nbsp;
-<img src="assets/noun-explainable-ai-6418584.svg" alt="X" width="40px"/> &nbsp;&nbsp;&nbsp;
-<img src="assets/ML_icon_bold_pastel_no_bg.svg" alt="X" width="100px"/> &nbsp;&nbsp;&nbsp; <img src="assets/ML_icon_no_bg.svg" alt="X" width="40px"/>
+* Skills: &nbsp;&nbsp;&nbsp;<img src="assets/ML_icon_bold_pastel_no_bg.svg" alt="ML" width="70px"/> &nbsp;&nbsp;&nbsp;
+<img src="assets/DL_icon.svg" alt="DL" width="70px"/>&nbsp;&nbsp;&nbsp;
+<img src="assets/FL_icon_bold_no_bg.svg" alt="FL" width="70px"/> &nbsp;&nbsp;&nbsp;
+<img src="assets/XAI_icon.svg" alt="XAI" width="90px"/> &nbsp;&nbsp;&nbsp;
+<img src="assets/ML_icon_bold_pastel_no_bg.svg" alt="CV" width="70px"/> &nbsp;&nbsp;&nbsp; <img src="assets/ML_icon_no_bg.svg" alt="DA" width="70px"/>
 
-* Programming Languages: &nbsp;&nbsp;&nbsp;<img src="assets/python.png" alt="X" width="40px"/> &nbsp;&nbsp;&nbsp;
-<img src="assets/r.png" alt="X" width="40px"/>&nbsp;&nbsp;&nbsp;
-<img src="assets/c-.png" alt="X" width="40px"/> &nbsp;&nbsp;&nbsp;
-<img src="assets/c- (1).png" alt="X" width="40px"/> &nbsp;&nbsp;&nbsp;
-<img src="assets/java.png" alt="X" width="40px"/> &nbsp;&nbsp;&nbsp; <img src="assets/java-script.png" alt="X" width="40px"/>
 
-* Databases: &nbsp;&nbsp;&nbsp;<img src="assets/icons8-firebase-48.png" alt="X" width="40px"/> &nbsp;&nbsp;&nbsp;
-<img src="assets/icons8-microsoft-sql-server-48.png" alt="X" width="40px"/>&nbsp;&nbsp;&nbsp;
-<img src="assets/mysql.png" alt="X" width="40px"/> &nbsp;&nbsp;&nbsp;
-<img src="assets/postgre.png" alt="X" width="40px"/> &nbsp;&nbsp;&nbsp;
-<img src="assets/database.png" alt="X" width="40px"/> &nbsp;&nbsp;&nbsp; <img src="assets/icons8-mongo-db-64.png" alt="X" width="40px"/>
 
-* Frameworks: &nbsp;&nbsp;&nbsp;<img src="assets/icons8-pytorch-64.png" alt="X" width="40px"/> &nbsp;&nbsp;&nbsp;
-<img src="assets/icons8-tensorflow-48.png" alt="X" width="40px"/>&nbsp;&nbsp;&nbsp;
-<img src="assets/Keras.png" alt="X" width="40px"/> &nbsp;&nbsp;&nbsp;
-<img src="assets/scikit-learn.png" alt="X" width="40px"/> &nbsp;&nbsp;&nbsp;
-<img src="assets/pysyft.svg" alt="X" width="40px"/> &nbsp;&nbsp;&nbsp;
-<img src="assets/OpenCV.png" alt="X" width="40px"/> &nbsp;&nbsp;&nbsp; <img src="assets/NLTK.webp" alt="X" width="40px"/>
+* Programming Languages: &nbsp;&nbsp;&nbsp;<img src="assets/python.png" alt="Python" width="40px"/> &nbsp;&nbsp;&nbsp;
+<img src="assets/r.png" alt="R" width="40px"/>&nbsp;&nbsp;&nbsp;
+<img src="assets/c-.png" alt="C" width="40px"/> &nbsp;&nbsp;&nbsp;
+<img src="assets/c- (1).png" alt="C++" width="40px"/> &nbsp;&nbsp;&nbsp;
+<img src="assets/java.png" alt="Java" width="40px"/> &nbsp;&nbsp;&nbsp; <img src="assets/java-script.png" alt="JavaScript" width="40px"/>
+
+* Databases: &nbsp;&nbsp;&nbsp;<img src="assets/icons8-firebase-48.png" alt="Firebase" width="40px"/> &nbsp;&nbsp;&nbsp;
+<img src="assets/icons8-microsoft-sql-server-48.png" alt="Microsoft SQL Server" width="40px"/>&nbsp;&nbsp;&nbsp;
+<img src="assets/mysql.png" alt="MySQL" width="40px"/> &nbsp;&nbsp;&nbsp;
+<img src="assets/postgre.png" alt="Postgre SQL" width="40px"/> &nbsp;&nbsp;&nbsp;
+<img src="assets/database.png" alt="SQLite" width="40px"/> &nbsp;&nbsp;&nbsp; <img src="assets/icons8-mongo-db-64.png" alt="MongoDB" width="40px"/>
+
+* Frameworks: &nbsp;&nbsp;&nbsp;<img src="assets/icons8-pytorch-64.png" alt="PyTorch" width="40px"/> &nbsp;&nbsp;&nbsp;
+<img src="assets/icons8-tensorflow-48.png" alt="Tensorflow" width="40px"/>&nbsp;&nbsp;&nbsp;
+<img src="assets/Keras.png" alt="Keras" width="40px"/> &nbsp;&nbsp;&nbsp;
+<img src="assets/scikit-learn.png" alt="scikit-learn" width="40px"/> &nbsp;&nbsp;&nbsp;
+<img src="assets/pysyft.svg" alt="PySyft" width="40px"/> &nbsp;&nbsp;&nbsp;
+<img src="assets/OpenCV.png" alt="OpenCV" width="40px"/> &nbsp;&nbsp;&nbsp; <img src="assets/NLTK.webp" alt="X" width="40px"/>
 
 <br>
 
