@@ -47,11 +47,21 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<div style="clear: both;"></div>
 
 <h3><strong>Tools</strong></h3>
 <p>
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a>
+  <a href="mailto:harshshah7074@gmail.com">
+    <img align="left" src="assets/gmail-icon-logo.svg" alt="Gmail" width="50px"/>
+  </a>
+  <a href="https://www.linkedin.com/in/harshshah37/">
+    <img align="left" src="assets/linkedin.svg" alt="LinkedIn" width="50px"/>
+  </a>
+  <a href="https://www.instagram.com/harshshah37">
+    <img align="left" src="assets/instagram-svgrepo-com.svg" alt="Instagram" width="50px"/>
+  </a>
+  <a href="https://twitter.com/harshshah73">
+    <img align="left" src="assets/twitter-svgrepo-com.svg" alt="X" width="50px"/>
+  </a>
 </p>
 
 
