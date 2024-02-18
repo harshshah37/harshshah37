@@ -28,10 +28,16 @@ Here are some ideas to get you started:
 
 ## Connect with me
 
-<a href="https://www.linkedin.com">
+<a href="mailto:harshshah7074@gmail.com">
+  <img align="left" src="assets/gmail-icon-logo.svg" alt="Gmail" width="50px"/>
+</a>
+<a href="https://www.linkedin.com/in/harshshah37/">
   <img align="left" src="assets/linkedin.svg" alt="LinkedIn" width="50px"/>
 </a>
-<a href="https://www.instagram.com">
-  <img align="left" src="assets/instagram-svgrepo-com.svg" alt="Instagram" width="75px"/>
+<a href="https://www.instagram.com/harshshah37">
+  <img align="left" src="assets/instagram-svgrepo-com.svg" alt="Instagram" width="50px"/>
+</a>
+<a href="https://twitter.com/harshshah73">
+  <img align="left" src="assets/twitter-svgrepo-com.svg" alt="X" width="50px"/>
 </a>
 
