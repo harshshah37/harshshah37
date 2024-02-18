@@ -35,16 +35,16 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me</h3>
 <p align="left">
   <a href="mailto:harshshah7074@gmail.com">
-    <img align="left" src="assets/gmail-icon-logo.svg" alt="Gmail" width="40px" height="30" />
+    <img align="left" src="assets/gmail-icon-logo.svg" alt="Gmail" width="50px" />
   </a>
   <a href="https://www.linkedin.com/in/harshshah37/">
-    <img align="left" src="assets/linkedin.svg" alt="LinkedIn" width="40px" height="30" />
+    <img align="left" src="assets/linkedin.svg" alt="LinkedIn" width="50px" />
   </a>
   <a href="https://www.instagram.com/harshshah37">
-    <img align="left" src="assets/instagram-svgrepo-com.svg" alt="Instagram" width="40px" height="30" />
+    <img align="left" src="assets/instagram-svgrepo-com.svg" alt="Instagram" width="50px" />
   </a>
   <a href="https://twitter.com/harshshah73">
-    <img align="left" src="assets/twitter-svgrepo-com.svg" alt="X" width="40px" height="30" />
+    <img align="left" src="assets/twitter-svgrepo-com.svg" alt="X" width="50px" />
   </a>
 </p>
 
