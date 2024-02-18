@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/iub.jpeg" alt="Indiana University-Bloomington" width="100%"/>
+</p>
+
 <h1 align="center"><strong>Hi there 👋, I'm Harsh</strong></h1>
 
 <!--
