@@ -2,7 +2,7 @@
   <img src="assets/iub.jpeg" alt="Indiana University-Bloomington" width="100%"/>
 </p>
 
-<h1 align="center"><strong>Hi there 👋, I'm Harsh</strong></h1>
+<h1 align="center"><strong>Hi there 👋, I'm Harsh (#About)</strong></h1>
 
 <!--
 **harshshah37/harshshah37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
