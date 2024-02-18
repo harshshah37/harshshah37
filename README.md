@@ -50,9 +50,9 @@ Here are some ideas to get you started:
 
 ## Languages & Tools
 
-<p align="center">
-  <img src="assets/gmail-icon-logo.svg" alt="Image 1" width="400"/>
-  <img src="assets/linkedin.svg" alt="Image 2" width="400"/>
+<p>
+  <img src="assets/gmail-icon-logo.svg" alt="Image 1" width="50px"/>
+  <img src="assets/linkedin.svg" alt="Image 2" width="50px"/>
 </p>
 
 
