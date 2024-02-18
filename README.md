@@ -47,3 +47,12 @@ Here are some ideas to get you started:
   <img align="left" src="assets/twitter-svgrepo-com.svg" alt="X" width="50px"/>
 </a>
 
+
+## Languages & Tools
+
+<p align="center">
+  <img src="assets/gmail-icon-logo.svg" alt="Image 1" width="400"/>
+  <img src="assets/linkedin.svg" alt="Image 2" width="400"/>
+</p>
+
+
