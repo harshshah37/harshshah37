@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   
 * 🥅 2024 Goals: Learn extensively and work on LLMs and GenAI
   
-* ♚ Fun Fact: I thought chess was uninteresting and avoided playing it for 20 years of my life. During lockdown, I played it once, and since then, I have played over 1000 games (Connect with me if you'd love a game [Chess.com](https://www.chess.com/member/harshshah37)
+* ♚ Fun Fact: I thought chess was uninteresting and avoided playing it for 20 years of my life. During lockdown, I played it once, and since then, I have played over 1000 games (Connect with me if you'd love a game [Chess.com](https://www.chess.com/member/harshshah37))
 
 <br>
 
@@ -55,7 +55,11 @@ Here are some ideas to get you started:
 
 <h2 align = "left"> Technical Skills </h2>
 
-
+* Skills: &nbsp;&nbsp;&nbsp;<img src="assets/ML_icon_no_bg.svg" alt="X" width="40px"/> &nbsp;&nbsp;&nbsp;
+<img src="assets/ML_icon_bold_pastel_no_bg.svg" alt="X" width="60px"/>&nbsp;&nbsp;&nbsp;
+<img src="assets/noun-federated-learning-5850930.svg" alt="X" width="40px"/> &nbsp;&nbsp;&nbsp;
+<img src="assets/noun-explainable-ai-6418584.svg" alt="X" width="40px"/> &nbsp;&nbsp;&nbsp;
+<img src="assets/ML_icon_bold_pastel_no_bg.svg" alt="X" width="100px"/> &nbsp;&nbsp;&nbsp; <img src="assets/ML_icon_no_bg.svg" alt="X" width="40px"/>
 
 * Programming Languages: &nbsp;&nbsp;&nbsp;<img src="assets/python.png" alt="X" width="40px"/> &nbsp;&nbsp;&nbsp;
 <img src="assets/r.png" alt="X" width="40px"/>&nbsp;&nbsp;&nbsp;
