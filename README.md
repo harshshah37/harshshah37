@@ -25,3 +25,13 @@ Here are some ideas to get you started:
   
 * ♚ Fun Fact: I thought chess was uninteresting and avoided playing it for 20 years of my life. During lockdown, I played it once, and since then, I have played over 1000 games (Connect with me if you'd love a game [Chess.com](https://www.chess.com/member/harshshah37)
 
+
+## Connect with me
+
+<a href="https://www.linkedin.com">
+  <img align="left" src="assets/linkedin.svg" alt="LinkedIn" width="100px"/>
+</a>
+<a href="https://www.instagram.com">
+  <img align="left" src="instagram-svgrepo-com.svg" alt="Instagram" width="100px"/>
+</a>
+
