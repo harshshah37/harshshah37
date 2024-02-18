@@ -1,4 +1,3 @@
-
-<svg width="200px" height="100px" version="1.1" xmlns="http://www.w3.org/2000/svg">
-    <text x="50%" y="50%" alignment-baseline="middle" text-anchor="middle" font-family="Arial" font-size="40px" font-weight="bold" fill="#BFD8D2" stroke="#BFD8D2" stroke-width="1">CV</text>
+<svg width="120" height="50" xmlns="http://www.w3.org/2000/svg">
+    <text x="10" y="50" font-family="Arial" font-size="72" font-weight="bold" stroke="#BFD8D2" stroke-width="2" fill="#BFD8D2">cv</text>
 </svg>
