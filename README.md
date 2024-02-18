@@ -31,27 +31,26 @@ Here are some ideas to get you started:
   
 * ♚ Fun Fact: I thought chess was uninteresting and avoided playing it for 20 years of my life. During lockdown, I played it once, and since then, I have played over 1000 games (Connect with me if you'd love a game [Chess.com](https://www.chess.com/member/harshshah37)
 
-
 <h3><strong>Connect with me</strong></h3>
 <p>
-<a href="mailto:harshshah7074@gmail.com">
-  <img align="left" src="assets/gmail-icon-logo.svg" alt="Gmail" width="50px"/>
-</a>
-<a href="https://www.linkedin.com/in/harshshah37/">
-  <img align="left" src="assets/linkedin.svg" alt="LinkedIn" width="50px"/>
-</a>
-<a href="https://www.instagram.com/harshshah37">
-  <img align="left" src="assets/instagram-svgrepo-com.svg" alt="Instagram" width="50px"/>
-</a>
-<a href="https://twitter.com/harshshah73">
-  <img align="left" src="assets/twitter-svgrepo-com.svg" alt="X" width="50px"/>
-</a>
+  <a href="mailto:harshshah7074@gmail.com">
+    <img align="left" src="assets/gmail-icon-logo.svg" alt="Gmail" width="50px"/>
+  </a>
+  <a href="https://www.linkedin.com/in/harshshah37/">
+    <img align="left" src="assets/linkedin.svg" alt="LinkedIn" width="50px"/>
+  </a>
+  <a href="https://www.instagram.com/harshshah37">
+    <img align="left" src="assets/instagram-svgrepo-com.svg" alt="Instagram" width="50px"/>
+  </a>
+  <a href="https://twitter.com/harshshah73">
+    <img align="left" src="assets/twitter-svgrepo-com.svg" alt="X" width="50px"/>
+  </a>
 </p>
 
 <h3><strong>Tools</strong></h3>
 <p>
-  <img src="assets/gmail-icon-logo.svg" alt="Image 1" width="50px"/>
-  <img src="assets/linkedin.svg" alt="Image 2" width="50px"/>
+  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a>
 </p>
+
 
 
