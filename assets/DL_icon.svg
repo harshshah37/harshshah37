@@ -1,4 +1,4 @@
 
-<svg width="200px" height="100px" version="1.1" xmlns="http://www.w3.org/2000/svg">
-    <text x="50%" y="50%" alignment-baseline="middle" text-anchor="middle" font-family="Arial" font-size="40px" font-weight="bold" fill="#F7CAC9" stroke="#F7CAC9" stroke-width="1">DL</text>
+<svg width="120" height="50" xmlns="http://www.w3.org/2000/svg">
+    <text x="10" y="50" font-family="Arial" font-size="72" font-weight="bold" stroke="#F7CAC9" stroke-width="2" fill="#F7CAC9">DL</text>
 </svg>
