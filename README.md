@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <a href="#connect with me"><strong>Hi there 👋, I'm Harsh</strong></a>
+  <a href="#connect with me" style="color: purple;"><strong>Hi there 👋, I'm Harsh</strong></a>
 </h1>
 
 <!--
