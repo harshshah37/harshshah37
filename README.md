@@ -47,6 +47,7 @@ Here are some ideas to get you started:
   <img align="left" src="assets/twitter-svgrepo-com.svg" alt="X" width="50px"/>
 </a>
 
+<div style="clear: both;"></div>
 
 ## Languages & Tools
 
