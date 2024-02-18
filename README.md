@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About
+<h1>
+  <strong>About</strong>
+</h1>
 
 * 📖 I am currently pursuing a Graduate degree in Data Science from Indiana University-Bloomington
   
