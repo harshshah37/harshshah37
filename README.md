@@ -87,9 +87,13 @@ Here are some ideas to get you started:
 
 XAI meets Ophthalmology: An Explainable Approach to Cataract Detection using VGG-19 and Grad-CAM ([IEEE Link](https://drive.google.com/file/d/1oWkrnlwTSvZCLe2d4kqE_vxc8nEv7fYh/view))
 
+Exploring the Potentials of Explainable AI for Early Cataract Detection to Foster Accessible Healthcare ([JUSST Link](https://jusst.org/exploring-the-potentials-of-explainable-ai-for-early-cataract-detection-to-foster-accessible-healthcare/))
+
 Federated Learning to Preserve the Privacy of User Data ([IEEE Link](https://ieeexplore.ieee.org/document/10104860))
 
 ROI based real time straight lane line detection using Canny Edge Detector and masked bitwise operator ([IEEE Link](https://ieeexplore.ieee.org/document/10037363))
+
+
 
 
 
