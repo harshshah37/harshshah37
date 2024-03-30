@@ -25,13 +25,16 @@ Here are some ideas to get you started:
 
 * 📖 I am currently pursuing a Graduate degree in Data Science from Indiana University-Bloomington
   
-* 🌱 I've worked with XAI and Federated Learning, which are among my most enjoyable topics, and I'm currently learning and working with GenAI
+* 🌱 Have worked with NLP, XAI, FL and CV
   
-* 🥅 2024 Goals: Learn extensively and work on LLMs and make more open source contributions.
+* 🥅 2024 Goals: More open-source
   
 * ♚ Fun Fact: I thought chess was uninteresting and avoided playing it for 20 years of my life. During lockdown, I played it once, and since then, I have played over 1000 games (Connect with me if you'd love a game [Chess.com](https://www.chess.com/member/harshshah37))
 
 <br>
+
+![](https://komarev.com/ghpvc/?username=harshshah37&color=blueviolet&style=plastic&base=500)
+
 
 <h2 align = "left"> Connect with me</h2>
 <p align="left">
