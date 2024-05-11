@@ -94,6 +94,7 @@ Exploring the Potentials of Explainable AI for Early Cataract Detection to Foste
 
 Federated Learning to Preserve the Privacy of User Data ([IEEE Link](https://ieeexplore.ieee.org/document/10104860))
 
+ROI based real time straight lane line detection using Canny Edge Detector and masked bitwise operator ([IEEE Link](https://ieeexplore.ieee.org/abstract/document/10037363))
 
 
 
