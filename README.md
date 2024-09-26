@@ -23,13 +23,11 @@ Here are some ideas to get you started:
 
 <h2 align = "left"> About</h2>
 
-* 📖 I am currently pursuing a Graduate degree in Data Science from Indiana University-Bloomington
+* Graduate Data Science student at IU
   
-* 🌱 Have worked with NLP, XAI, FL and CV
+* Possibly want to do more open source contributions
   
-* 🥅 2024 Goals: More open-source
-  
-* ♚ Fun Fact: I thought chess was uninteresting and avoided playing it for 20 years of my life. During lockdown, I played it once, and since then, I have played over 1000 games (Connect with me if you'd love a game [Chess.com](https://www.chess.com/member/harshshah37))
+* Connect with me if you'd love a game [Chess.com](https://www.chess.com/member/harshshah37)
 
 <br>
 
@@ -58,33 +56,9 @@ Here are some ideas to get you started:
 
 <h2 align = "left"> Technical Skills </h2>
 
-* Skills: &nbsp;&nbsp;<img src="assets/ML_icon_bold_pastel_no_bg.svg" alt="ML" width="70px"/> &nbsp;
-<img src="assets/DL_icon.svg" alt="DL" width="70px"/> &nbsp;
-<img src="assets/FL_icon_bold_no_bg.svg" alt="FL" width="70px"/> &nbsp;
-<img src="assets/XAI_icon.svg" alt="XAI" width="90px"/> &nbsp;
-<img src="assets/CV_icon_2.svg" alt="CV" width="65px"/> &nbsp; <img src="assets/DA_icon_1.svg" alt="DA" width="70px"/> 
-
-
-* Programming Languages: &nbsp;&nbsp;&nbsp;<img src="assets/python.png" alt="Python" width="40px"/> &nbsp;&nbsp;&nbsp;
-<img src="assets/r.png" alt="R" width="40px"/>&nbsp;&nbsp;&nbsp;
-<img src="assets/c-.png" alt="C" width="40px"/> &nbsp;&nbsp;&nbsp;
-<img src="assets/c- (1).png" alt="C++" width="40px"/> &nbsp;&nbsp;&nbsp;
-<img src="assets/java.png" alt="Java" width="40px"/> &nbsp;&nbsp;&nbsp; <img src="assets/java-script.png" alt="JavaScript" width="40px"/>
-
-* Databases: &nbsp;&nbsp;&nbsp;<img src="assets/icons8-firebase-48.png" alt="Firebase" width="40px"/> &nbsp;&nbsp;&nbsp;
-<img src="assets/icons8-microsoft-sql-server-48.png" alt="Microsoft SQL Server" width="40px"/>&nbsp;&nbsp;&nbsp;
-<img src="assets/mysql.png" alt="MySQL" width="40px"/> &nbsp;&nbsp;&nbsp;
-<img src="assets/postgre.png" alt="Postgre SQL" width="40px"/> &nbsp;&nbsp;&nbsp;
-<img src="assets/database.png" alt="SQLite" width="40px"/> &nbsp;&nbsp;&nbsp; <img src="assets/icons8-mongo-db-64.png" alt="MongoDB" width="40px"/>
-
-* Frameworks: &nbsp;&nbsp;&nbsp;<img src="assets/icons8-pytorch-64.png" alt="PyTorch" width="40px"/> &nbsp;&nbsp;&nbsp;
-<img src="assets/icons8-tensorflow-48.png" alt="Tensorflow" width="40px"/>&nbsp;&nbsp;&nbsp;
-<img src="assets/Keras.png" alt="Keras" width="40px"/> &nbsp;&nbsp;&nbsp;
-<img src="assets/scikit-learn.png" alt="scikit-learn" width="40px"/> &nbsp;&nbsp;&nbsp;
-<img src="assets/pysyft.svg" alt="PySyft" width="40px"/> &nbsp;&nbsp;&nbsp;
-<img src="assets/OpenCV.png" alt="OpenCV" width="40px"/> &nbsp;&nbsp;&nbsp; <img src="assets/NLTK.webp" alt="X" width="40px"/>
-
-<br>
+* Skills: Machine Learning, Deep Learning, Explainable AI, NLP, Computer Vision, Data Analytics, Statistics
+* Programming Languages: Python, R (Statistical Analysis), C, Java, JavaScript, SQL
+* Frameworks: PyTorch, TensorFlow, Keras, scikit-learn, PySyft, OpenCV, NLTK, GCP, Spark, Databricks
 
 <h2 align = "left"> Publications </h2>
 
