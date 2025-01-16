@@ -42,9 +42,9 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/harshshah37/">
   <img align="left" src="assets/linkedin.svg" alt="LinkedIn" width="50px" />
 </a>
-<a href="https://www.instagram.com/harshshah37">
+<!-- <a href="https://www.instagram.com/harshshah37">
   <img align="left" src="assets/instagram-svgrepo-com.svg" alt="Instagram" width="50px" />
-</a>
+</a> -->
 <a href="https://twitter.com/harshshah73">
   <img align="left" src="assets/twitter-svgrepo-com.svg" alt="X" width="50px" />
 </a>
@@ -56,9 +56,11 @@ Here are some ideas to get you started:
 
 <h2 align = "left"> Technical Skills </h2>
 
-* Skills: Machine Learning, Deep Learning, Explainable AI, NLP, Computer Vision, Data Analytics, Statistics
-* Programming Languages: Python, R (Statistical Analysis), C, Java, JavaScript, SQL
-* Frameworks: PyTorch, TensorFlow, Keras, scikit-learn, PySyft, OpenCV, NLTK, GCP, Spark, Databricks
+* **Skills**: Machine Learning, Deep Learning, MLOps, NLP, Computer Vision, Data Analytics, Statistics
+* **Programming Languages**: Python, R (Statistical Analysis), C, Java, JavaScript, SQL
+* **Frameworks**: PyTorch, TensorFlow, Keras, scikit-learn, PySyft, OpenCV, NLTK
+* **Tools**: AWS, GCP, Spark, Docker, MLflow, DagsHub, Databricks, Tableau, Power BI, Looker, Git, GiHub Actions, Streamlit
+* **Databases**: Firebase, Microsoft SQL Server, MySQL, PostgreSQL, SQLite, BigQuery, MongoDB, Neo4j
 
 <h2 align = "left"> Publications </h2>
 
